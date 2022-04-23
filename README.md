@@ -1,6 +1,6 @@
 # Duolingo Extension
 
-## This started because I noticed while you can see all the words you have learned on Duolingo, they provided no translation. This tool provides a way to show all the translations and a download button for a .csv file. Currently this is a snippet you can run in dev tools.
+# This started because I noticed while you can see all the words you have learned on Duolingo, they provided no translation. This tool provides a way to show all the translations and a download button for a .csv file. Currently this is a snippet you can run in dev tools.
 
 ## Instructions (Chromium based browsers)
 
