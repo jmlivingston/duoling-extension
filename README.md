@@ -16,6 +16,8 @@ This started because I noticed while you can see all the words you have learned 
 
 ## TODO
 
+- fix accents
 - add error handling
 - only add if not added
 - turn this into a chrome extension where you can customize languages
+- Wire up index.html to test easier.
